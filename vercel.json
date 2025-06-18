@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/send-lead",
+      "dest": "/api/send-lead.js"
+    }
+  ]
+}
